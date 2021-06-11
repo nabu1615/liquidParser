@@ -1,5 +1,5 @@
 {
-  "name": "liquidparser",
+  "name": "testing-parser",
   "version": "1.0.0",
   "description": "Liquid Parser",
   "main": "index.js",
