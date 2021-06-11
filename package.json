@@ -1,0 +1,22 @@
+{
+  "name": "liquidparser",
+  "version": "1.0.0",
+  "description": "Liquid Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabu1615/liquidParser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabu1615/liquidParser/issues"
+  },
+  "homepage": "https://github.com/nabu1615/liquidParser#readme",
+  "dependencies": {
+    "liquidjs": "^9.25.0"
+  }
+}
