@@ -1,9 +1,6 @@
 import { Liquid } from 'liquidjs'
 
 export default class LiquidParserClass {
-    /** context of liquid drops in local */
-    library = {};
-
     /**
      * Create a Client.
      * @param library object containing all local liquid context
